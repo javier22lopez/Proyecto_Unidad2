@@ -6,10 +6,12 @@ Primera subida del proyecto GitHub
 Eliminación de las imágenes no utilizadas
 # Versión 3
 Inclusión de requirements.txt paara instalación de librerias
- # USO
-<<<<<<< HEAD
+# Versión 4
+Nuevos comentarios
+# Versión 5
+Correción de errores
+# Funcionamiento
+Para cada espacio de color se crea una función donde los parámetros de entrada son las modificaciones a los canales. Se introduce cuanto se quiere modificar cada uno de los canales
+para formar imagenes nuevas. 
+La segunda parte de cada espacio es para representarlas con la librería MatplotLib
 
- Para las distintos espacios de color del proyecto se han creado funciones para su conversión y modificación de los canales. Para  función, modificar los valores de cada uno de los canales como se desee. Los titulos de los gráficos no estan automatizados, si se cambia un valor, se deberá cambiar el título.
-=======
- Para las distintos espacios de color del proyecto se han creado funciones para su conversión y modificación de los canales. Para cada función, modificar los valores de cada uno de los canales como se desee. Los titulos de los gráficos no estan automatizados, si se cambia un valor, se deberá cambiar el título.
->>>>>>> 5228f9fe249faf3fc41f19df6c296c342793c269
